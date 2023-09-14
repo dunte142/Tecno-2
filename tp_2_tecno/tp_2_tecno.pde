@@ -93,8 +93,24 @@ void draw() {
     angulo_m=900;
     x_-=10;
   }
-
   popStyle();
+
+  /*
+if (si "burrito" choco con "plataforma"){
+    
+  pelota.addImpulse(x, y);
+  
+  } 
+
+if (si "burrito" toco el piso){
+    
+  pantalla con escore y posibilidad de reiniciar el programa
+  
+  } 
+ */
+
+
+
 }
 
 void keyPressed() {
