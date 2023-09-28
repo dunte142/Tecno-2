@@ -1,3 +1,7 @@
+//Video explicando 
+//https://youtu.be/VZAbrvnDD6g
+
+
 import processing.sound.*;
 SoundFile  musica;
 //SoundFile  golpe;
