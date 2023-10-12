@@ -6,7 +6,6 @@ void setup() {
 
 void draw() {
 
-  println(fuerza);
   Juego();
  
 }
